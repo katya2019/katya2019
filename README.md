@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @katya2019
 - 👀 I’m interested in programming for blockchains
 - 🌱 I’m currently learning typescript/ nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me
 
 <!---
 katya2019/katya2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
