@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katya2019
 - 👀 I’m interested in programming for blockchains
-- 🌱 I’m currently learning typescript/ nodejs
+- 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me
 
